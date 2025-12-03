@@ -1,4 +1,4 @@
-market-backend/
+market-server/
 │
 ├─ src/
 │  ├─ app.js            # Express init
