@@ -11,6 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/ibrohimovich884/market-server.git"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
