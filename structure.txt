@@ -54,3 +54,23 @@ market-server/
 ├─ .env                  # DATABASE_URL, JWT_SECRET va boshqalar
 ├─ package.json
 └─ README.md
+
+
+market-server/
+│
+├─ src/
+│  ├─ server.js
+│  ├─ db.js
+│  ├─ app.js
+│  │
+│  ├─ routes/
+│  │   ├─ auth.js
+│  │   ├─ products.js
+│  │   └─ sellers.js
+│  │
+│  └─ helpers/
+│      ├─ jwt.js
+│      └─ hash.js
+│
+├─ .env
+└─ package.json
